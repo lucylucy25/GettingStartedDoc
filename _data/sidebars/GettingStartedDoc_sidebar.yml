@@ -1,0 +1,153 @@
+entries:
+- title: sidebar
+  product: Kaspersky Security Center
+  version: 10
+  folders:
+
+  - title: Об этом документе
+    url: /GettingStartedDoc_about.html
+    output: web, pdf
+    properties: homepage
+    folderitems:
+
+    - title: В этом документе
+      url: /GettingStartedDoc_inthisdocument.html
+      output: web, pdf
+
+    - title: Условные обозначения
+      url: /GettingStartedDoc_conventions.html
+      output: web, pdf
+
+  - title: Источники информации о программе
+    url: /GettingStartedDoc_sources.html
+    output: web, pdf
+    folderitems:
+
+    - title: Источники для самостоятельного поиска информации
+      url: /GettingStartedDoc_selfsouces.html
+      output: web, pdf
+
+    - title: Обсуждение программ "Лаборатории Касперского" на форуме
+      url: /GettingStartedDoc_forum.html
+      output: web, pdf
+
+  - title: Kaspersky Security Center
+    url: /GettingStartedDoc_ksc.html
+    output: web, pdf
+
+  - title: Управление ключами Kaspersky Security Center
+    url: /GettingStartedDoc_programlicense.html
+    output: web, pdf
+    folderitems:
+
+    - title: О Лицензионном соглашении
+      url: /GettingStartedDoc_agreement.html
+      output: web, pdf
+
+    - title: О лицензии
+      url: /GettingStartedDoc_license.html
+      output: web, pdf
+
+    - title: О ключах
+      url: /GettingStartedDoc_key.html
+      output: web, pdf
+
+    - title: О файле ключей
+      url: /GettingStartedDoc_keyfile.html
+      output: web, pdf
+
+    - title: Активация программы
+      url: /GettingStartedDoc_activation.html
+      output: web, pdf
+
+    - title: Продление срока действия лицензии
+      url: /GettingStartedDoc_prolongation.html
+      output: web, pdf
+
+  - title: Интерфейс программы
+    url: /GettingStartedDoc_interface.html
+    output: web, pdf
+
+  - title: Запуск программы
+    url: /GettingStartedDoc_start.html
+    output: web, pdf
+
+  - title: Начало работы
+    url: /GettingStartedDoc_gettingstarted.html
+    output: web, pdf
+    folderitems:
+
+    subfolders:
+    - title: Развертывание антивирусной защиты
+      url: /GettingStartedDoc_implementation.html
+      output: web, pdf
+      subfolderitems:
+
+        - title: Развертывание антивирусной защиты внутри огранизации
+          url: /GettingStartedDoc_insideimplementation.html
+          output: web, pdf
+
+        - title: Развертывание антивирусной защиты сети организации-клиента
+          url: /GettingStartedDoc_insideimplementation.html
+          output: web, pdf
+
+        - title: Установка компонентов программы Kaspersky Security Center
+          url: /GettingStartedDoc_insideimplementation.html
+          output: web, pdf
+
+    subfolders:
+    - title: Ежедневные задачи
+      url: /GettingStartedDoc_everyday.html
+      output: web, pdf
+      subfolderitems:
+
+        - title: Просмотр текущего состояния антивирусной защиты
+          url: /GettingStartedDoc_recent.html
+          output: web, pdf
+
+        - title: Просмотр отчета о найденных вирусах
+          url: /GettingStartedDoc_foundthreats.html
+          output: web, pdf
+
+        - title: Просмотр информации о событиях
+          url: /GettingStartedDoc_events.html
+          output: web, pdf
+
+    subfolders:
+    - title: Периодические задачи
+      url: /GettingStartedDoc_periodical.html
+      output: web, pdf
+      subfolderitems:
+
+        - title: Настройка политики для программы
+          url: /GettingStartedDoc_politics.html
+          output: web, pdf
+
+        - title: Просмотр и изменение локальных параметров программы
+          url: /GettingStartedDoc_localparameters.html
+          output: web, pdf
+
+        - title: Печать и сохранение отчета
+          url: /GettingStartedDoc_printandsave.html
+          output: web, pdf
+
+        - title: Создание резервной копии данных Сервера администрирования
+          url: /GettingStartedDoc_reservecopy.html
+          output: web, pdf
+
+  - title: Заключение
+    url: /GettingStartedDoc_conclusion.html
+    output: web, pdf
+
+  - title: Обращение в службу технической поддержки
+    url: /GettingStartedDoc_support.html
+    output: web, pdf
+
+  - title: ЗАО "Лаборатория Касперского"
+    url: /GettingStartedDoc_kasperskylab.html
+    output: web, pdf
+
+  - title: Уведомления о товарных знаках
+    url: /GettingStartedDoc_notifications.html
+    output: web, pdf
+

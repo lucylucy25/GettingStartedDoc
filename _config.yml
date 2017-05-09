@@ -1,0 +1,59 @@
+repository:
+
+topnav_title: Kaspersky Security Center
+
+site_title: KSC Getting Started
+
+company_name: Kaspersky Lab
+
+host: 127.0.0.1
+
+port: 4000
+
+highlighter: rouge
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: GettingStartedDoc_sidebar
+  -
+    scope:
+      path: ""
+      type: "tooltips"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      tooltip: true
+
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      search: true
+      sidebar: GettingStartedDoc_sidebar
+
+
+sidebars:
+- GettingStartedDoc_sidebar
+- home_sidebar
+- other
+
+url: lucylucy25.github.io
+baseurl: /GettingStartedDoc
